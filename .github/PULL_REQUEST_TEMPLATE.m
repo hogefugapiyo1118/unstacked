@@ -1,5 +1,3 @@
-<!-- I want to review in Japanese. -->
-
 ## 概要
 
 <!-- このPull Requestの目的や背景を記述してください -->
@@ -24,5 +22,3 @@
 ## 備考
 
 <!-- 補足事項があれば記載してください -->
-
-<!-- I want to review in Japanese. -->
